@@ -4,13 +4,6 @@
 
 Monkeylang Interpreter is an interpreter for a JavaScript-like programming language written in [Go](https://golang.org/). It features a lexer, abstract syntax tree (AST), parser, evaluator, and a REPL (Read-Eval-Print Loop), supporting key language features such as higher-order functions, closures, and various data structures. This project is designed to follow the principles outlined in Thorsten Ball's book _"Writing an Interpreter in Go"_.
 
-## Features
-
-- **Lexer and Parser**: Converts code into a structured format for evaluation.
-- **Abstract Syntax Tree (AST)**: Represents code structure.
-- **Evaluator**: Executes code, supporting higher-order functions, closures, arrays, strings, and hashmaps.
-- **REPL**: Interactive environment to write and test Monkeylang code.
-
 ## Run Locally
 
 ### With Docker
