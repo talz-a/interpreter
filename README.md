@@ -1,8 +1,6 @@
 # Monkeylang Interpreter
 
-## Overview
-
-Monkeylang Interpreter is an interpreter for a JavaScript-like programming language written in [Go](https://golang.org/). It features a lexer, abstract syntax tree (AST), parser, evaluator, and a REPL (Read-Eval-Print Loop), supporting key language features such as higher-order functions, closures, and various data structures. This project is designed to follow the principles outlined in Thorsten Ball's book _"Writing an Interpreter in Go"_.
+Monkeylang Interpreter is an interpreter for a JavaScript-like programming language written in [Go](https://golang.org/). It features a lexer, abstract syntax tree (AST), parser, evaluator, and a REPL, supporting language features such as higher-order functions, closures, and various data structures. This project is designed to follow the principles outlined in Thorsten Ball's book _"Writing an Interpreter in Go"_.
 
 ## Run Locally
 
